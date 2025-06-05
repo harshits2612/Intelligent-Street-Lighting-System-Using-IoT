@@ -1,7 +1,7 @@
 
 🌟 Smart Street Light System
 An Application to Control Smart Lights
-Group 5: Octopuses 🐙
+
 
 📘 Table of Contents
 Project Overview

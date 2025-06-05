@@ -1,5 +1,5 @@
 
-🌟 Smart Street Light System
+🌟 Intelligent-Street-Lighting-System-Using-IoT
 An Application to Control Smart Lights
 
 
